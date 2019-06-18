@@ -7,7 +7,7 @@ import "./styles.css";
 class App extends Component {
   constructor(props) {
     super(props);
-    // Keep the defaul information
+    // Keep the defaul informations
     this.state = {
       playButton: false,
       difficultyChose: false
